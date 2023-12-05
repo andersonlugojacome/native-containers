@@ -1,0 +1,12 @@
+/Volumes/SSData/GitHub/native-containers/bin/Release/net7.0/linux-x64/publish/native-containers
+/Volumes/SSData/GitHub/native-containers/bin/Release/net7.0/linux-x64/publish/appsettings.Development.json
+/Volumes/SSData/GitHub/native-containers/bin/Release/net7.0/linux-x64/publish/appsettings.json
+/Volumes/SSData/GitHub/native-containers/bin/Release/net7.0/linux-x64/publish/native-containers.dll
+/Volumes/SSData/GitHub/native-containers/bin/Release/net7.0/linux-x64/publish/native-containers.deps.json
+/Volumes/SSData/GitHub/native-containers/bin/Release/net7.0/linux-x64/publish/native-containers.runtimeconfig.json
+/Volumes/SSData/GitHub/native-containers/bin/Release/net7.0/linux-x64/publish/native-containers.pdb
+/Volumes/SSData/GitHub/native-containers/bin/Release/net7.0/linux-x64/publish/Microsoft.AspNetCore.OpenApi.dll
+/Volumes/SSData/GitHub/native-containers/bin/Release/net7.0/linux-x64/publish/Microsoft.OpenApi.dll
+/Volumes/SSData/GitHub/native-containers/bin/Release/net7.0/linux-x64/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/SSData/GitHub/native-containers/bin/Release/net7.0/linux-x64/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/SSData/GitHub/native-containers/bin/Release/net7.0/linux-x64/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

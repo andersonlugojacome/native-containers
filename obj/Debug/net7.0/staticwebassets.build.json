@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kcyRmWRiRCxnh1Ka+6BHgmkMc/BP35fBVC73ZS5r4FY=",
+  "Source": "native-containers",
+  "BasePath": "_content/native-containers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
